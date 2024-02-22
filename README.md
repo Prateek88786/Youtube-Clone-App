@@ -1,16 +1,10 @@
-# youtube_clone
+# Video demonstrating the app
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/Prateek88786/Youtube-Clone-App/assets/141042244/7f8683e0-e7de-406e-8cf3-64891704426d
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Debug APK file link
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://drive.google.com/file/d/1zLDdsMT3cn9joxfEzU4pyUNSw14v4OAY/view?usp=sharing
